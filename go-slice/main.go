@@ -13,4 +13,8 @@ func main() {
 
 	fmt.Println(marks)
 
+	// using make command
+
+	// realMarks := make([]int, 4, 6)
+
 }
